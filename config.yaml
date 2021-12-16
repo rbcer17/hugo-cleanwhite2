@@ -1,5 +1,5 @@
-baseurl: https://zhaohuabing.com
-title: Huabing Blog
+baseurl: https://rbcer17.github.io/rblogexample/
+title: Huabing Blog Test for RBC
 theme: hugo-theme-cleanwhite
 languageCode: en-us
 publishdir: ../myblog
